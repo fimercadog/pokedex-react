@@ -27,5 +27,5 @@ Una Pokédex desarrollada con React, diseñada para ser completamente responsive
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pokedex.git
+   git clone https://github.com/fimercadog/pokedex-react
    cd pokedex
